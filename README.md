@@ -2,7 +2,7 @@
 - 👀 I’m interested in  par Github
 - 🌱 I’m currently learning  Github 
 - 💞️ I’m looking to collaborate on  Github
-- 📫 How to reach me  vestinio@gmail.com
+- 📫  velstinio@gmail.com
 
 <!---
 Jardunet/Jardunet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
